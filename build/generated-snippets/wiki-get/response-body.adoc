@@ -1,0 +1,4 @@
+[source,json,options="nowrap"]
+----
+{"id":3,"title":"Spring","content":"Spring uses <a href=\"/wiki/Java\">Java</a> and <a href=\"/wiki/JavaScript\">JavaScript</a>"}
+----

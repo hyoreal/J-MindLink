@@ -1,0 +1,16 @@
+|===
+|Path|Type|Description
+
+|`+[].id+`
+|`+Number+`
+|위키 ID
+
+|`+[].title+`
+|`+String+`
+|위키 제목
+
+|`+[].content+`
+|`+String+`
+|본문 내용
+
+|===

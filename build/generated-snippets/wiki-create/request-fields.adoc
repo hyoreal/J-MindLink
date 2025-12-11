@@ -1,0 +1,12 @@
+|===
+|Path|Type|Description
+
+|`+title+`
+|`+String+`
+|위키 제목(링크 키워드)
+
+|`+content+`
+|`+String+`
+|본문 내용
+
+|===
