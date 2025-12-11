@@ -1,0 +1,8 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 99
+
+[{"id":4,"title":"Java","content":"About Java"},{"id":5,"title":"Spring","content":"About Spring"}]
+----

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.service.WikiLinkServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-12-11T13:40:23" hostname="HYOJIN-MACBOOKPRO.local" time="0.003">
+  <properties/>
+  <testcase name="키워드가 없으면 변환하지 않는다" classname="com.example.service.WikiLinkServiceTest" time="0.002"/>
+  <testcase name="긴 단어를 우선 링크 처리한다 - JavaScript vs Java" classname="com.example.service.WikiLinkServiceTest" time="0.0"/>
+  <testcase name="본문이 null 또는 빈 경우 그대로 반환" classname="com.example.service.WikiLinkServiceTest" time="0.0"/>
+  <testcase name="본문의 키워드를 링크로 변환" classname="com.example.service.WikiLinkServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
